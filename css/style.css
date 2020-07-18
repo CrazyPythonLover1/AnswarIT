@@ -1,0 +1,64 @@
+body{
+    overflow-x: hidden;
+    margin:0;
+    padding:0;
+}
+.my-button{
+    border: 1px solid #63b9ef;
+    color: #63b9ef;
+}
+.my-button:hover{
+    background: linear-gradient(45deg,#63b9ef,#3586bb);
+    border: 1px solid #3586bb;
+}
+.top-bar{
+    background: linear-gradient(180deg,#63b9ef,#3586bb);
+    padding: .6rem;
+}
+.top-bar a{
+    text-align: center;
+}
+.transparet-bg{
+    background: linear-gradient(45deg,#63b9ef7c,#3585bb57);
+}
+.top-banner{
+    height: 26rem;
+    background: linear-gradient(45deg,#63b9ef,#186faa);
+}
+
+.banner-bottom{
+    padding: 1.5em 0;
+    background-color: #484d54;
+    color: #fff;
+    text-align: center;
+}
+
+.softwar-research{
+    margin: 3rem ;
+}
+.softwar-research h4{
+    color: #4baae0;
+    padding: .4rem 0;
+}
+.trusted-by{
+    margin-top:2rem;
+    padding: 1rem;
+    border-top: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    background: #f0f0f0;
+}
+.categories{
+    background-color: white;
+}
+.business-tools-row{
+    display: flex;
+}
+.single-tools{
+    width: 10rem;
+    margin: 2rem 1rem;
+    padding: 0;
+    
+}
+.single-tools .card {
+  
+}
