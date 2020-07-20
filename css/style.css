@@ -87,3 +87,21 @@ body{
   background: none;
   border: none;
 }
+.reviews .card-body h5{
+    font-size: 1rem;
+}
+.reviews .card-body p{
+    font-size: .9rem;
+}
+.reviews  .card {
+
+    box-shadow: 0 2px 12px  #ddd;
+}
+
+ .reviews .card-footer img{
+    width: 3rem;
+    height: 3rem;
+}
+.reviews .card-footer{
+    background-color: #f0f0f0;
+}
