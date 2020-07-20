@@ -48,33 +48,35 @@ body{
     background: #f0f0f0;
 }
 .categories{
+    height: 37rem;
     background-color: white;
     padding: 2rem 1rem;
     list-style: none;
-    border: 1px solid #ddd;
     border-radius: 5px;
-    box-shadow: 0 2px 12px 0 #e1e1e180;
+    box-shadow: 0 2px 12px  #ddd;
 }
 .categories li{
     list-style-type: none;
     padding: .3rem 0;
+    color: #63b9ef;
+    font-size: 1.1rem;
 }
 .business-tools-row{
     display: flex;
 }
-.single-tools{
+.single-tools{ 
     width: 30%;
     margin: 2rem .5rem;
     padding: 0;
     height: 20rem;
-    border: 1px solid #ddd;
-    border-radius: 5px;
-    box-shadow: 0 2px 12px 0 #e1e1e180;
-    
-    
+    box-shadow: 0 2px 12px  #ddd;
 }
+
 .single-tools .card img{
-    height: 7rem;
+    height: 7.4rem;
+}
+.single-tools .card h5{
+    height: 2.5rem;
 }
 .single-tools .card p{
     height: 2rem;
